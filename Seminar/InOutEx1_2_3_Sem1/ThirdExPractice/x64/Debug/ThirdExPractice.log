@@ -1,0 +1,3 @@
+﻿  ThirdExPractice.cpp
+C:\Users\viole\Documents\University Work Files\Programming Basics\Seminar\InOutEx1_2_3_Sem1\ThirdExPractice\ThirdExPractice.cpp(74,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ThirdExPractice.vcxproj -> C:\Users\viole\Documents\University Work Files\Programming Basics\Seminar\InOutEx1_2_3_Sem1\x64\Debug\ThirdExPractice.exe
