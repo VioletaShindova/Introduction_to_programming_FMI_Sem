@@ -5,6 +5,7 @@
 
 int main()
 {
+    //ex. 1
     std::cout << "Oh what\n";
     std::cout << "a happy day!\n";
     std::cout << "Oh yes,\n";
