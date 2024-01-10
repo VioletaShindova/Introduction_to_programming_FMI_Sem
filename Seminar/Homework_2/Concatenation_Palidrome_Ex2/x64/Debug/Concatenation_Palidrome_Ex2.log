@@ -1,0 +1,8 @@
+﻿  Concatenation_Palidrome_Ex2.cpp
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Seminar\Homework_2\Concatenation_Palidrome_Ex2\Concatenation_Palidrome_Ex2.cpp(18,37): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Seminar\Homework_2\Concatenation_Palidrome_Ex2\Concatenation_Palidrome_Ex2.cpp(18,26): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Seminar\Homework_2\Concatenation_Palidrome_Ex2\Concatenation_Palidrome_Ex2.cpp(35,33): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Seminar\Homework_2\Concatenation_Palidrome_Ex2\Concatenation_Palidrome_Ex2.cpp(35,26): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Seminar\Homework_2\Concatenation_Palidrome_Ex2\Concatenation_Palidrome_Ex2.cpp(40,21): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Seminar\Homework_2\Concatenation_Palidrome_Ex2\Concatenation_Palidrome_Ex2.cpp(42,23): warning C4018: '>': signed/unsigned mismatch
+  Concatenation_Palidrome_Ex2.vcxproj -> C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Seminar\Homework_2\x64\Debug\Concatenation_Palidrome_Ex2.exe
