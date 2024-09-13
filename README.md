@@ -1,5 +1,6 @@
 INTRODUCTION TO PROGRAMMING AT FMI
-Seminar Topics: Introduction to Programming - Information Systems/Software Engineering
+
+Seminar Topics: Introduction to Programming - Information Systems and Software Engineering
 
 Topic 1: Introduction. Primitive data types. Type conversion. Operators.
 
