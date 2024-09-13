@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Practice\\Session_Preparation\\New\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A52A901A-7DE3-4FE1-B812-89F98343D582}|SortingLexicographically_Ex3\\SortingLexicographically_Ex3.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Practice\\Session_Preparation\\New\\SortingLexicographically_Ex3\\SortingLexicographically_Ex3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A52A901A-7DE3-4FE1-B812-89F98343D582}|SortingLexicographically_Ex3\\SortingLexicographically_Ex3.vcxproj|solutionrelative:SortingLexicographically_Ex3\\SortingLexicographically_Ex3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2B83AF-F139-46A8-9891-7F3FC2226D99}|LongestNumberInArrayRec_Ex2\\LongestNumberInArrayRec_Ex2.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Practice\\Session_Preparation\\New\\LongestNumberInArrayRec_Ex2\\LongestNumberInArrayRec_Ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B2B83AF-F139-46A8-9891-7F3FC2226D99}|LongestNumberInArrayRec_Ex2\\LongestNumberInArrayRec_Ex2.vcxproj|solutionrelative:LongestNumberInArrayRec_Ex2\\LongestNumberInArrayRec_Ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B732DE9-2B26-4C81-86A1-7C6E5DB8BFA6}|BubbleSort_Ex2\\BubbleSort_Ex2.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Practice\\Session_Preparation\\New\\BubbleSort_Ex2\\BubbleSort_Ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B732DE9-2B26-4C81-86A1-7C6E5DB8BFA6}|BubbleSort_Ex2\\BubbleSort_Ex2.vcxproj|solutionrelative:BubbleSort_Ex2\\BubbleSort_Ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E14E771-2BC2-4CEB-91B4-C76AE224BC7C}|Ex1\\Ex1.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Practice\\Session_Preparation\\New\\Ex1\\Ex1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E14E771-2BC2-4CEB-91B4-C76AE224BC7C}|Ex1\\Ex1.vcxproj|solutionrelative:Ex1\\Ex1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 536,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SortingLexicographically_Ex3.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Practice\\Session_Preparation\\New\\SortingLexicographically_Ex3\\SortingLexicographically_Ex3.cpp",
+              "RelativeDocumentMoniker": "SortingLexicographically_Ex3\\SortingLexicographically_Ex3.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Practice\\Session_Preparation\\New\\SortingLexicographically_Ex3\\SortingLexicographically_Ex3.cpp",
+              "RelativeToolTip": "SortingLexicographically_Ex3\\SortingLexicographically_Ex3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-12T18:48:31.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LongestNumberInArrayRec_Ex2.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Practice\\Session_Preparation\\New\\LongestNumberInArrayRec_Ex2\\LongestNumberInArrayRec_Ex2.cpp",
+              "RelativeDocumentMoniker": "LongestNumberInArrayRec_Ex2\\LongestNumberInArrayRec_Ex2.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Practice\\Session_Preparation\\New\\LongestNumberInArrayRec_Ex2\\LongestNumberInArrayRec_Ex2.cpp",
+              "RelativeToolTip": "LongestNumberInArrayRec_Ex2\\LongestNumberInArrayRec_Ex2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-12T18:10:50.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BubbleSort_Ex2.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Practice\\Session_Preparation\\New\\BubbleSort_Ex2\\BubbleSort_Ex2.cpp",
+              "RelativeDocumentMoniker": "BubbleSort_Ex2\\BubbleSort_Ex2.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Practice\\Session_Preparation\\New\\BubbleSort_Ex2\\BubbleSort_Ex2.cpp",
+              "RelativeToolTip": "BubbleSort_Ex2\\BubbleSort_Ex2.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-10T20:35:50.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ex1.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Practice\\Session_Preparation\\New\\Ex1\\Ex1.cpp",
+              "RelativeDocumentMoniker": "Ex1\\Ex1.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Practice\\Session_Preparation\\New\\Ex1\\Ex1.cpp",
+              "RelativeToolTip": "Ex1\\Ex1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-10T14:07:04.032Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  BinarySearchRec_Ex6.cpp
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Session_Preparation\Recursion\BinarySearchRec_Ex6\BinarySearchRec_Ex6.cpp(15,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  BinarySearchRec_Ex6.vcxproj -> C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Session_Preparation\Recursion\x64\Debug\BinarySearchRec_Ex6.exe

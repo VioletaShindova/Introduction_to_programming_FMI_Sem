@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB4C107-AE66-4732-BDD6-9544E6751E07}|Sem.14_MergeSort\\Sem.14_MergeSort.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.13\\Sem.14_MergeSort\\Sem.13_MergeSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DBB4C107-AE66-4732-BDD6-9544E6751E07}|Sem.14_MergeSort\\Sem.14_MergeSort.vcxproj|solutionrelative:Sem.14_MergeSort\\Sem.13_MergeSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84C5FF4-1FE9-4871-90EB-67AA61ED0BC9}|Sem.13_Ex2_InsertionSort\\Sem.13_Ex2_InsertionSort.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.13\\Sem.13_Ex2_InsertionSort\\Sem.13_Ex2_InsertionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A84C5FF4-1FE9-4871-90EB-67AA61ED0BC9}|Sem.13_Ex2_InsertionSort\\Sem.13_Ex2_InsertionSort.vcxproj|solutionrelative:Sem.13_Ex2_InsertionSort\\Sem.13_Ex2_InsertionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B25F935F-F19E-4543-B90F-8B3072642330}|Sem.13_Ex3_SelectionSort\\Sem.13_Ex3_SelectionSort.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.13\\Sem.13_Ex3_SelectionSort\\Sem.13_Ex3_SelectionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B25F935F-F19E-4543-B90F-8B3072642330}|Sem.13_Ex3_SelectionSort\\Sem.13_Ex3_SelectionSort.vcxproj|solutionrelative:Sem.13_Ex3_SelectionSort\\Sem.13_Ex3_SelectionSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E3609B-DE03-4546-899E-01BB390E0F5A}|Sem.13_Ex4_ShakerSort\\Sem.13_Ex4_ShakerSort.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.13\\Sem.13_Ex4_ShakerSort\\Sem.13_Ex4_ShakerSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02E3609B-DE03-4546-899E-01BB390E0F5A}|Sem.13_Ex4_ShakerSort\\Sem.13_Ex4_ShakerSort.vcxproj|solutionrelative:Sem.13_Ex4_ShakerSort\\Sem.13_Ex4_ShakerSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C710C8-2C35-4F1F-8A9E-BE7E9907E0AE}|Sem.13_Ex1_BubbleSort\\Sem.13_Ex1_BubbleSort.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.13\\Sem.13_Ex1_BubbleSort\\Sem.13_Ex1_BubbleSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0C710C8-2C35-4F1F-8A9E-BE7E9907E0AE}|Sem.13_Ex1_BubbleSort\\Sem.13_Ex1_BubbleSort.vcxproj|solutionrelative:Sem.13_Ex1_BubbleSort\\Sem.13_Ex1_BubbleSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sem.13_MergeSort.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.13\\Sem.14_MergeSort\\Sem.13_MergeSort.cpp",
+              "RelativeDocumentMoniker": "Sem.14_MergeSort\\Sem.13_MergeSort.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.13\\Sem.14_MergeSort\\Sem.13_MergeSort.cpp",
+              "RelativeToolTip": "Sem.14_MergeSort\\Sem.13_MergeSort.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-20T15:04:46.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sem.13_Ex4_ShakerSort.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.13\\Sem.13_Ex4_ShakerSort\\Sem.13_Ex4_ShakerSort.cpp",
+              "RelativeDocumentMoniker": "Sem.13_Ex4_ShakerSort\\Sem.13_Ex4_ShakerSort.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.13\\Sem.13_Ex4_ShakerSort\\Sem.13_Ex4_ShakerSort.cpp",
+              "RelativeToolTip": "Sem.13_Ex4_ShakerSort\\Sem.13_Ex4_ShakerSort.cpp",
+              "ViewState": "AQIAACwAAAAAAAAAAAAxwDoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-09T10:49:15.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sem.13_Ex3_SelectionSort.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.13\\Sem.13_Ex3_SelectionSort\\Sem.13_Ex3_SelectionSort.cpp",
+              "RelativeDocumentMoniker": "Sem.13_Ex3_SelectionSort\\Sem.13_Ex3_SelectionSort.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.13\\Sem.13_Ex3_SelectionSort\\Sem.13_Ex3_SelectionSort.cpp",
+              "RelativeToolTip": "Sem.13_Ex3_SelectionSort\\Sem.13_Ex3_SelectionSort.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-09T10:22:16.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sem.13_Ex2_InsertionSort.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.13\\Sem.13_Ex2_InsertionSort\\Sem.13_Ex2_InsertionSort.cpp",
+              "RelativeDocumentMoniker": "Sem.13_Ex2_InsertionSort\\Sem.13_Ex2_InsertionSort.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.13\\Sem.13_Ex2_InsertionSort\\Sem.13_Ex2_InsertionSort.cpp",
+              "RelativeToolTip": "Sem.13_Ex2_InsertionSort\\Sem.13_Ex2_InsertionSort.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-08T21:08:00.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sem.13_Ex1_BubbleSort.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.13\\Sem.13_Ex1_BubbleSort\\Sem.13_Ex1_BubbleSort.cpp",
+              "RelativeDocumentMoniker": "Sem.13_Ex1_BubbleSort\\Sem.13_Ex1_BubbleSort.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.13\\Sem.13_Ex1_BubbleSort\\Sem.13_Ex1_BubbleSort.cpp",
+              "RelativeToolTip": "Sem.13_Ex1_BubbleSort\\Sem.13_Ex1_BubbleSort.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwC8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-07T08:30:41.204Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

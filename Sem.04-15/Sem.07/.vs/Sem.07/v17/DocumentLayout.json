@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2145334D-F02F-4583-AB25-96ECBB4A779C}|Sem.07_Ex5_SwapSignsOfNumber\\Sem.07_Ex5_SwapSignsOfNumber.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.07\\Sem.07_Ex5_SwapSignsOfNumber\\Sem.07_Ex5_SwapSignsOfNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2145334D-F02F-4583-AB25-96ECBB4A779C}|Sem.07_Ex5_SwapSignsOfNumber\\Sem.07_Ex5_SwapSignsOfNumber.vcxproj|solutionrelative:Sem.07_Ex5_SwapSignsOfNumber\\Sem.07_Ex5_SwapSignsOfNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22DAD548-61CE-4C3D-A778-D6E7E8FD81FE}|Sem.07_Ex4_FromRandomToRandom\\Sem.07_Ex4_FromRandomToRandom.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.07\\Sem.07_Ex4_FromRandomToRandom\\Sem.07_Ex4_FromRandomToRandom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22DAD548-61CE-4C3D-A778-D6E7E8FD81FE}|Sem.07_Ex4_FromRandomToRandom\\Sem.07_Ex4_FromRandomToRandom.vcxproj|solutionrelative:Sem.07_Ex4_FromRandomToRandom\\Sem.07_Ex4_FromRandomToRandom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B021FD52-E97D-4944-BC39-29FD03ECEA35}|Sem.07_Ex2_FromDecimalToRandomCountSystem\\Sem.07_Ex2_FromDecimalToRandomCountSystem.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.07\\Sem.07_Ex2_FromDecimalToRandomCountSystem\\Sem.07_Ex2_FromDecimalToRandomCountSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B021FD52-E97D-4944-BC39-29FD03ECEA35}|Sem.07_Ex2_FromDecimalToRandomCountSystem\\Sem.07_Ex2_FromDecimalToRandomCountSystem.vcxproj|solutionrelative:Sem.07_Ex2_FromDecimalToRandomCountSystem\\Sem.07_Ex2_FromDecimalToRandomCountSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2511E84C-D0F7-463C-A4A4-CD267E301DBC}|Sem.07_1.2_FromBinaryToDecimalWithoutArrays\\Sem.07_1.2_FromBinaryToDecimalWithoutArrays.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.07\\Sem.07_1.2_FromBinaryToDecimalWithoutArrays\\Sem.07_1.2_FromDecimalToBinaryWithoutArrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2511E84C-D0F7-463C-A4A4-CD267E301DBC}|Sem.07_1.2_FromBinaryToDecimalWithoutArrays\\Sem.07_1.2_FromBinaryToDecimalWithoutArrays.vcxproj|solutionrelative:Sem.07_1.2_FromBinaryToDecimalWithoutArrays\\Sem.07_1.2_FromDecimalToBinaryWithoutArrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB32EA20-BE9A-4311-9CD0-0D8FB73CD9B5}|Sem.07_Ex3_FromBinaryToDecimalWithIntegers\\Sem.07_Ex3_FromBinaryToDecimalWithIntegers.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.07\\Sem.07_Ex3_FromBinaryToDecimalWithIntegers\\Sem.07_Ex3_FromBinaryToDecimalWithIntegers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB32EA20-BE9A-4311-9CD0-0D8FB73CD9B5}|Sem.07_Ex3_FromBinaryToDecimalWithIntegers\\Sem.07_Ex3_FromBinaryToDecimalWithIntegers.vcxproj|solutionrelative:Sem.07_Ex3_FromBinaryToDecimalWithIntegers\\Sem.07_Ex3_FromBinaryToDecimalWithIntegers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15755E36-23EC-4F4D-80B5-3350E9D35B5A}|Sem.07_Ex1_FromDecimalToBinary\\Sem.07_Ex1_FromDecimalToBinary.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.07\\Sem.07_Ex1_FromDecimalToBinary\\Sem.07_Ex1_FromDecimalToBinary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15755E36-23EC-4F4D-80B5-3350E9D35B5A}|Sem.07_Ex1_FromDecimalToBinary\\Sem.07_Ex1_FromDecimalToBinary.vcxproj|solutionrelative:Sem.07_Ex1_FromDecimalToBinary\\Sem.07_Ex1_FromDecimalToBinary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sem.07_Ex5_SwapSignsOfNumber.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.07\\Sem.07_Ex5_SwapSignsOfNumber\\Sem.07_Ex5_SwapSignsOfNumber.cpp",
+              "RelativeDocumentMoniker": "Sem.07_Ex5_SwapSignsOfNumber\\Sem.07_Ex5_SwapSignsOfNumber.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.07\\Sem.07_Ex5_SwapSignsOfNumber\\Sem.07_Ex5_SwapSignsOfNumber.cpp",
+              "RelativeToolTip": "Sem.07_Ex5_SwapSignsOfNumber\\Sem.07_Ex5_SwapSignsOfNumber.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-03T12:31:18.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sem.07_Ex4_FromRandomToRandom.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.07\\Sem.07_Ex4_FromRandomToRandom\\Sem.07_Ex4_FromRandomToRandom.cpp",
+              "RelativeDocumentMoniker": "Sem.07_Ex4_FromRandomToRandom\\Sem.07_Ex4_FromRandomToRandom.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.07\\Sem.07_Ex4_FromRandomToRandom\\Sem.07_Ex4_FromRandomToRandom.cpp",
+              "RelativeToolTip": "Sem.07_Ex4_FromRandomToRandom\\Sem.07_Ex4_FromRandomToRandom.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T16:17:30.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sem.07_Ex2_FromDecimalToRandomCountSystem.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.07\\Sem.07_Ex2_FromDecimalToRandomCountSystem\\Sem.07_Ex2_FromDecimalToRandomCountSystem.cpp",
+              "RelativeDocumentMoniker": "Sem.07_Ex2_FromDecimalToRandomCountSystem\\Sem.07_Ex2_FromDecimalToRandomCountSystem.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.07\\Sem.07_Ex2_FromDecimalToRandomCountSystem\\Sem.07_Ex2_FromDecimalToRandomCountSystem.cpp",
+              "RelativeToolTip": "Sem.07_Ex2_FromDecimalToRandomCountSystem\\Sem.07_Ex2_FromDecimalToRandomCountSystem.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T12:42:02.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sem.07_Ex3_FromBinaryToDecimalWithIntegers.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.07\\Sem.07_Ex3_FromBinaryToDecimalWithIntegers\\Sem.07_Ex3_FromBinaryToDecimalWithIntegers.cpp",
+              "RelativeDocumentMoniker": "Sem.07_Ex3_FromBinaryToDecimalWithIntegers\\Sem.07_Ex3_FromBinaryToDecimalWithIntegers.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.07\\Sem.07_Ex3_FromBinaryToDecimalWithIntegers\\Sem.07_Ex3_FromBinaryToDecimalWithIntegers.cpp",
+              "RelativeToolTip": "Sem.07_Ex3_FromBinaryToDecimalWithIntegers\\Sem.07_Ex3_FromBinaryToDecimalWithIntegers.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T13:21:56.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sem.07_1.2_FromDecimalToBinaryWithoutArrays.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.07\\Sem.07_1.2_FromBinaryToDecimalWithoutArrays\\Sem.07_1.2_FromDecimalToBinaryWithoutArrays.cpp",
+              "RelativeDocumentMoniker": "Sem.07_1.2_FromBinaryToDecimalWithoutArrays\\Sem.07_1.2_FromDecimalToBinaryWithoutArrays.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.07\\Sem.07_1.2_FromBinaryToDecimalWithoutArrays\\Sem.07_1.2_FromDecimalToBinaryWithoutArrays.cpp",
+              "RelativeToolTip": "Sem.07_1.2_FromBinaryToDecimalWithoutArrays\\Sem.07_1.2_FromDecimalToBinaryWithoutArrays.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T12:51:46.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sem.07_Ex1_FromDecimalToBinary.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.07\\Sem.07_Ex1_FromDecimalToBinary\\Sem.07_Ex1_FromDecimalToBinary.cpp",
+              "RelativeDocumentMoniker": "Sem.07_Ex1_FromDecimalToBinary\\Sem.07_Ex1_FromDecimalToBinary.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.07\\Sem.07_Ex1_FromDecimalToBinary\\Sem.07_Ex1_FromDecimalToBinary.cpp",
+              "RelativeToolTip": "Sem.07_Ex1_FromDecimalToBinary\\Sem.07_Ex1_FromDecimalToBinary.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T12:24:54.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

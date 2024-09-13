@@ -1,0 +1,3 @@
+﻿  Sem.11_Ex3.cpp
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.11\Sem.11_Ex3\Sem.11_Ex3.cpp(70,21): warning C4267: '+=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Sem.11_Ex3.vcxproj -> C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.11\x64\Debug\Sem.11_Ex3.exe

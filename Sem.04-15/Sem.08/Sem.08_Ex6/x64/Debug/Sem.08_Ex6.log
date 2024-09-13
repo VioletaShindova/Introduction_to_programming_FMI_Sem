@@ -1,0 +1,4 @@
+﻿  Sem.08_Ex6.cpp
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.08\Sem.08_Ex6\Sem.08_Ex6.cpp(18,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.08\Sem.08_Ex6\Sem.08_Ex6.cpp(41,32): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Sem.08_Ex6.vcxproj -> C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.08\x64\Debug\Sem.08_Ex6.exe

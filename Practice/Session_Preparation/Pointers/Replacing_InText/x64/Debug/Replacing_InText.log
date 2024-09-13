@@ -1,0 +1,4 @@
+﻿  Replacing_InText.cpp
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Session_Preparation\Pointers\Replacing_InText\Replacing_InText.cpp(52): warning C4715: 'countingWordInText': not all control paths return a value
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Session_Preparation\Pointers\Replacing_InText\Replacing_InText.cpp(32): warning C4715: 'counterWords': not all control paths return a value
+  Replacing_InText.vcxproj -> C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Session_Preparation\Pointers\x64\Debug\Replacing_InText.exe

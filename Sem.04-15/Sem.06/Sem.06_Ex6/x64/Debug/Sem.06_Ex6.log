@@ -1,0 +1,4 @@
+﻿  Sem.06_Ex6.cpp
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.06\Sem.06_Ex6\Sem.06_Ex6.cpp(21,24): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.06\Sem.06_Ex6\Sem.06_Ex6.cpp(37,1): warning C4715: 'findSmallestMissingNumber': not all control paths return a value
+  Sem.06_Ex6.vcxproj -> C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.06\x64\Debug\Sem.06_Ex6.exe

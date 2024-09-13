@@ -1,0 +1,5 @@
+﻿  Functions_For_Arrays.cpp
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Pract.06.Arrays\Functions_For_Arrays\Functions_For_Arrays.cpp(38,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Pract.06.Arrays\Functions_For_Arrays\Functions_For_Arrays.cpp(52,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Pract.06.Arrays\Functions_For_Arrays\Functions_For_Arrays.cpp(61,25): warning C4018: '<': signed/unsigned mismatch
+  Functions_For_Arrays.vcxproj -> C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Pract.06.Arrays\x64\Debug\Functions_For_Arrays.exe

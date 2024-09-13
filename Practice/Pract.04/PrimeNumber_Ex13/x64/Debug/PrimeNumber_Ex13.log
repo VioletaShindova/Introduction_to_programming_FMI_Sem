@@ -1,0 +1,8 @@
+﻿  PrimeNumber_Ex13.cpp
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Pract.04\PrimeNumber_Ex13\PrimeNumber_Ex13.cpp(9,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Pract.04\PrimeNumber_Ex13\PrimeNumber_Ex13.cpp(38,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Pract.04\PrimeNumber_Ex13\PrimeNumber_Ex13.cpp(77,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Pract.04\PrimeNumber_Ex13\PrimeNumber_Ex13.cpp(101,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Pract.04\PrimeNumber_Ex13\PrimeNumber_Ex13.cpp(103,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Pract.04\PrimeNumber_Ex13\PrimeNumber_Ex13.cpp(95): warning C4715: 'checkPrimeNumber': not all control paths return a value
+  PrimeNumber_Ex13.vcxproj -> C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Pract.04\x64\Debug\PrimeNumber_Ex13.exe

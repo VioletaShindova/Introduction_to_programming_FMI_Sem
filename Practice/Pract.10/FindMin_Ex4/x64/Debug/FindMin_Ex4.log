@@ -1,0 +1,4 @@
+﻿  FindMin_Ex4.cpp
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Pract.10\FindMin_Ex4\FindMin_Ex4.cpp(10,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Pract.10\FindMin_Ex4\FindMin_Ex4.cpp(34,28): warning C4018: '<': signed/unsigned mismatch
+  FindMin_Ex4.vcxproj -> C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Pract.10\x64\Debug\FindMin_Ex4.exe

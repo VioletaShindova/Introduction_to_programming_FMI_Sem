@@ -1,0 +1,4 @@
+﻿  Sem.06_Ex4.cpp
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.06\Sem.06_Ex4\Sem.06_Ex4.cpp(35,14): warning C4101: 'firstArray': unreferenced local variable
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.06\Sem.06_Ex4\Sem.06_Ex4.cpp(36,14): warning C4101: 'secondArray': unreferenced local variable
+  Sem.06_Ex4.vcxproj -> C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.06\x64\Debug\Sem.06_Ex4.exe

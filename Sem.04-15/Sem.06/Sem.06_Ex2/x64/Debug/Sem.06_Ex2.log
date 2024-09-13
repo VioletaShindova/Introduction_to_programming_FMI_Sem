@@ -1,0 +1,3 @@
+﻿  Sem.06_Ex2.cpp
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.06\Sem.06_Ex2\Sem.06_Ex2.cpp(17,20): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Sem.06_Ex2.vcxproj -> C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.06\x64\Debug\Sem.06_Ex2.exe

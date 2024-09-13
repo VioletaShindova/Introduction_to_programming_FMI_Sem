@@ -1,0 +1,3 @@
+﻿  BigPositiveNumber_Ex12.cpp
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Pract.04\BigPositiveNumber_Ex12\BigPositiveNumber_Ex12.cpp(21,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  BigPositiveNumber_Ex12.vcxproj -> C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Pract.04\x64\Debug\BigPositiveNumber_Ex12.exe

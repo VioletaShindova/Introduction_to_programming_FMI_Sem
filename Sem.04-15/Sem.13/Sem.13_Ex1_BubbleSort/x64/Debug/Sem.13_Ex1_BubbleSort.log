@@ -1,0 +1,4 @@
+﻿  Sem.13_Ex1_BubbleSort.cpp
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.13\Sem.13_Ex1_BubbleSort\Sem.13_Ex1_BubbleSort.cpp(31,28): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.13\Sem.13_Ex1_BubbleSort\Sem.13_Ex1_BubbleSort.cpp(40,37): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Sem.13_Ex1_BubbleSort.vcxproj -> C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.13\x64\Debug\Sem.13_Ex1_BubbleSort.exe

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81DB8367-9523-4DDE-8265-8E1126FECEB9}|Sem.12_Ex2\\Sem.12_Ex2.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.12\\Sem.12_Ex2\\Sem.12_Ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81DB8367-9523-4DDE-8265-8E1126FECEB9}|Sem.12_Ex2\\Sem.12_Ex2.vcxproj|solutionrelative:Sem.12_Ex2\\Sem.12_Ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71AEBA1-9BB2-4615-8716-F38D2492E6D7}|Sem.12_Ex1_PlayerStatistics\\Sem.12_Ex1_PlayerStatistics.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.12\\Sem.12_Ex1_PlayerStatistics\\Sem.12_Ex1_PlayerStatistics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D71AEBA1-9BB2-4615-8716-F38D2492E6D7}|Sem.12_Ex1_PlayerStatistics\\Sem.12_Ex1_PlayerStatistics.vcxproj|solutionrelative:Sem.12_Ex1_PlayerStatistics\\Sem.12_Ex1_PlayerStatistics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50869D79-28B4-4EF9-B513-1B70E4D8AFFC}|Sem.12_Ex1.2_MyVersion\\Sem.12_Ex1.2_MyVersion.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.12\\Sem.12_Ex1.2_MyVersion\\Sem.12_Ex1.2_MyVersion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50869D79-28B4-4EF9-B513-1B70E4D8AFFC}|Sem.12_Ex1.2_MyVersion\\Sem.12_Ex1.2_MyVersion.vcxproj|solutionrelative:Sem.12_Ex1.2_MyVersion\\Sem.12_Ex1.2_MyVersion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sem.12_Ex2.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.12\\Sem.12_Ex2\\Sem.12_Ex2.cpp",
+              "RelativeDocumentMoniker": "Sem.12_Ex2\\Sem.12_Ex2.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.12\\Sem.12_Ex2\\Sem.12_Ex2.cpp",
+              "RelativeToolTip": "Sem.12_Ex2\\Sem.12_Ex2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-07T08:07:22.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sem.12_Ex1.2_MyVersion.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.12\\Sem.12_Ex1.2_MyVersion\\Sem.12_Ex1.2_MyVersion.cpp",
+              "RelativeDocumentMoniker": "Sem.12_Ex1.2_MyVersion\\Sem.12_Ex1.2_MyVersion.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.12\\Sem.12_Ex1.2_MyVersion\\Sem.12_Ex1.2_MyVersion.cpp",
+              "RelativeToolTip": "Sem.12_Ex1.2_MyVersion\\Sem.12_Ex1.2_MyVersion.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-06T16:11:08.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sem.12_Ex1_PlayerStatistics.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.12\\Sem.12_Ex1_PlayerStatistics\\Sem.12_Ex1_PlayerStatistics.cpp",
+              "RelativeDocumentMoniker": "Sem.12_Ex1_PlayerStatistics\\Sem.12_Ex1_PlayerStatistics.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.12\\Sem.12_Ex1_PlayerStatistics\\Sem.12_Ex1_PlayerStatistics.cpp",
+              "RelativeToolTip": "Sem.12_Ex1_PlayerStatistics\\Sem.12_Ex1_PlayerStatistics.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-06T14:03:29.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

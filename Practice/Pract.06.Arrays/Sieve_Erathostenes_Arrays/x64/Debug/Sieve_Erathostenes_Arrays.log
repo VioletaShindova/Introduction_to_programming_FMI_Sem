@@ -1,0 +1,5 @@
+﻿  Sieve_Erathostenes_Arrays.cpp
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Pract.06.Arrays\Sieve_Erathostenes_Arrays\Sieve_Erathostenes_Arrays.cpp(10,46): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Pract.06.Arrays\Sieve_Erathostenes_Arrays\Sieve_Erathostenes_Arrays.cpp(18,28): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Pract.06.Arrays\Sieve_Erathostenes_Arrays\Sieve_Erathostenes_Arrays.cpp(31,28): warning C4018: '<=': signed/unsigned mismatch
+  Sieve_Erathostenes_Arrays.vcxproj -> C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Pract.06.Arrays\x64\Debug\Sieve_Erathostenes_Arrays.exe

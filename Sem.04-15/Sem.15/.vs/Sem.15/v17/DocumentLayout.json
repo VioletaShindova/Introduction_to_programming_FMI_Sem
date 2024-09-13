@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71DF53A2-2879-46CF-BCE0-49CA333BA24D}|Sem.15_Ex1_Fibb_Memoization\\Sem.15_Ex1_Fibb_Memoization.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex1_Fibb_Memoization\\Sem.15_Ex1_Fibb_Memoization.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71DF53A2-2879-46CF-BCE0-49CA333BA24D}|Sem.15_Ex1_Fibb_Memoization\\Sem.15_Ex1_Fibb_Memoization.vcxproj|solutionrelative:Sem.15_Ex1_Fibb_Memoization\\Sem.15_Ex1_Fibb_Memoization.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF964EF9-AEC7-441F-AFF0-18B853AF54F1}|Sem.15_Ex2_Sum_Numbers_String\\Sem.15_Ex2_Sum_Numbers_String.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex2_Sum_Numbers_String\\Sem.15_Ex2_Sum_Numbers_String.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF964EF9-AEC7-441F-AFF0-18B853AF54F1}|Sem.15_Ex2_Sum_Numbers_String\\Sem.15_Ex2_Sum_Numbers_String.vcxproj|solutionrelative:Sem.15_Ex2_Sum_Numbers_String\\Sem.15_Ex2_Sum_Numbers_String.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81859E96-0798-4EF8-A138-BC15BC0B672B}|Sem.15_Ex3_SumArrTrail\\Sem.15_Ex3_SumArrTrail.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex3_SumArrTrail\\Sem.15_Ex3_SumArrTrail.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81859E96-0798-4EF8-A138-BC15BC0B672B}|Sem.15_Ex3_SumArrTrail\\Sem.15_Ex3_SumArrTrail.vcxproj|solutionrelative:Sem.15_Ex3_SumArrTrail\\Sem.15_Ex3_SumArrTrail.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6ABCFE-CCB2-4405-87B8-D830E04190BA}|Sem.15_Ex5.2_High_Order_Functions_Int_Array\\Sem.15_Ex5.2_High_Order_Functions_Int_Array.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex5.2_High_Order_Functions_Int_Array\\Sem.15_Ex5.2_High_Order_Functions_Int_Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD6ABCFE-CCB2-4405-87B8-D830E04190BA}|Sem.15_Ex5.2_High_Order_Functions_Int_Array\\Sem.15_Ex5.2_High_Order_Functions_Int_Array.vcxproj|solutionrelative:Sem.15_Ex5.2_High_Order_Functions_Int_Array\\Sem.15_Ex5.2_High_Order_Functions_Int_Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA2352B-8754-406A-836B-46E946D9281F}|Sem.15_Ex5.3_High_Order_Functions_Sort_Int_Array\\Sem.15_Ex5.3_High_Order_Functions_Sort_Int_Array.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex5.3_High_Order_Functions_Sort_Int_Array\\Sem.15_Ex5.3_High_Order_Functions_Sort_Int_Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DA2352B-8754-406A-836B-46E946D9281F}|Sem.15_Ex5.3_High_Order_Functions_Sort_Int_Array\\Sem.15_Ex5.3_High_Order_Functions_Sort_Int_Array.vcxproj|solutionrelative:Sem.15_Ex5.3_High_Order_Functions_Sort_Int_Array\\Sem.15_Ex5.3_High_Order_Functions_Sort_Int_Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8823B5E-34AE-436B-B760-D3478195300A}|Sem.15_Ex5.4_High_Order_Functions_\\Sem.15_Ex5.4_High_Order_Functions_.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex5.4_High_Order_Functions_\\Sem.15_Ex5.4_High_Order_Functions_.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8823B5E-34AE-436B-B760-D3478195300A}|Sem.15_Ex5.4_High_Order_Functions_\\Sem.15_Ex5.4_High_Order_Functions_.vcxproj|solutionrelative:Sem.15_Ex5.4_High_Order_Functions_\\Sem.15_Ex5.4_High_Order_Functions_.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB54C420-3087-49CC-B67B-C94C01254C31}|Sem.15_Ex5.5_High_Order_Funcitons_strcmp\\Sem.15_Ex5.5_High_Order_Funcitons_strcmp.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex5.5_High_Order_Funcitons_strcmp\\Sem.15_Ex5.5_High_Order_Funcitons_strcmp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB54C420-3087-49CC-B67B-C94C01254C31}|Sem.15_Ex5.5_High_Order_Funcitons_strcmp\\Sem.15_Ex5.5_High_Order_Funcitons_strcmp.vcxproj|solutionrelative:Sem.15_Ex5.5_High_Order_Funcitons_strcmp\\Sem.15_Ex5.5_High_Order_Funcitons_strcmp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84AAAD3-6C26-480C-932F-A0A614F1C708}|Sem.15_Ex5_High_Order_Functions\\Sem.15_Ex5_High_Order_Functions.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex5_High_Order_Functions\\Sem.15_Ex5_High_Order_Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A84AAAD3-6C26-480C-932F-A0A614F1C708}|Sem.15_Ex5_High_Order_Functions\\Sem.15_Ex5_High_Order_Functions.vcxproj|solutionrelative:Sem.15_Ex5_High_Order_Functions\\Sem.15_Ex5_High_Order_Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9623A9D-2A34-45E8-9BA1-60C0FB74E5B4}|Sem.15_Ex6_High_Order_Functions_Get_Chars_Count_Cond\\Sem.15_Ex6_High_Order_Functions_Get_Chars_Count_Cond.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex6_High_Order_Functions_Get_Chars_Count_Cond\\Sem.15_Ex6_High_Order_Functions_Get_Chars_Count_Cond.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9623A9D-2A34-45E8-9BA1-60C0FB74E5B4}|Sem.15_Ex6_High_Order_Functions_Get_Chars_Count_Cond\\Sem.15_Ex6_High_Order_Functions_Get_Chars_Count_Cond.vcxproj|solutionrelative:Sem.15_Ex6_High_Order_Functions_Get_Chars_Count_Cond\\Sem.15_Ex6_High_Order_Functions_Get_Chars_Count_Cond.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E68539-934B-4AEF-86AF-1F8DDE16CF6E}|Sem.15_Ex7_GenBoolVectors\\Sem.15_Ex7_GenBoolVectors.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex7_GenBoolVectors\\Sem.15_Ex7_GenBoolVectors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91E68539-934B-4AEF-86AF-1F8DDE16CF6E}|Sem.15_Ex7_GenBoolVectors\\Sem.15_Ex7_GenBoolVectors.vcxproj|solutionrelative:Sem.15_Ex7_GenBoolVectors\\Sem.15_Ex7_GenBoolVectors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A1A058-258A-4751-8A2E-F39FA57D7619}|Sem.15_Ex4_MinOperationsMemoization\\Sem.15_Ex4_MinOperationsMemoization.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex4_MinOperationsMemoization\\Sem.15_Ex4_MinOperationsMemoization.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6A1A058-258A-4751-8A2E-F39FA57D7619}|Sem.15_Ex4_MinOperationsMemoization\\Sem.15_Ex4_MinOperationsMemoization.vcxproj|solutionrelative:Sem.15_Ex4_MinOperationsMemoization\\Sem.15_Ex4_MinOperationsMemoization.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sem.15_Ex5.2_High_Order_Functions_Int_Array.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex5.2_High_Order_Functions_Int_Array\\Sem.15_Ex5.2_High_Order_Functions_Int_Array.cpp",
+              "RelativeDocumentMoniker": "Sem.15_Ex5.2_High_Order_Functions_Int_Array\\Sem.15_Ex5.2_High_Order_Functions_Int_Array.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex5.2_High_Order_Functions_Int_Array\\Sem.15_Ex5.2_High_Order_Functions_Int_Array.cpp",
+              "RelativeToolTip": "Sem.15_Ex5.2_High_Order_Functions_Int_Array\\Sem.15_Ex5.2_High_Order_Functions_Int_Array.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T11:22:55.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sem.15_Ex3_SumArrTrail.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex3_SumArrTrail\\Sem.15_Ex3_SumArrTrail.cpp",
+              "RelativeDocumentMoniker": "Sem.15_Ex3_SumArrTrail\\Sem.15_Ex3_SumArrTrail.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex3_SumArrTrail\\Sem.15_Ex3_SumArrTrail.cpp",
+              "RelativeToolTip": "Sem.15_Ex3_SumArrTrail\\Sem.15_Ex3_SumArrTrail.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-31T19:48:38.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sem.15_Ex2_Sum_Numbers_String.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex2_Sum_Numbers_String\\Sem.15_Ex2_Sum_Numbers_String.cpp",
+              "RelativeDocumentMoniker": "Sem.15_Ex2_Sum_Numbers_String\\Sem.15_Ex2_Sum_Numbers_String.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex2_Sum_Numbers_String\\Sem.15_Ex2_Sum_Numbers_String.cpp",
+              "RelativeToolTip": "Sem.15_Ex2_Sum_Numbers_String\\Sem.15_Ex2_Sum_Numbers_String.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-31T19:37:56.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sem.15_Ex1_Fibb_Memoization.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex1_Fibb_Memoization\\Sem.15_Ex1_Fibb_Memoization.cpp",
+              "RelativeDocumentMoniker": "Sem.15_Ex1_Fibb_Memoization\\Sem.15_Ex1_Fibb_Memoization.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex1_Fibb_Memoization\\Sem.15_Ex1_Fibb_Memoization.cpp",
+              "RelativeToolTip": "Sem.15_Ex1_Fibb_Memoization\\Sem.15_Ex1_Fibb_Memoization.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-26T14:38:43.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sem.15_Ex5.3_High_Order_Functions_Sort_Int_Array.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex5.3_High_Order_Functions_Sort_Int_Array\\Sem.15_Ex5.3_High_Order_Functions_Sort_Int_Array.cpp",
+              "RelativeDocumentMoniker": "Sem.15_Ex5.3_High_Order_Functions_Sort_Int_Array\\Sem.15_Ex5.3_High_Order_Functions_Sort_Int_Array.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex5.3_High_Order_Functions_Sort_Int_Array\\Sem.15_Ex5.3_High_Order_Functions_Sort_Int_Array.cpp",
+              "RelativeToolTip": "Sem.15_Ex5.3_High_Order_Functions_Sort_Int_Array\\Sem.15_Ex5.3_High_Order_Functions_Sort_Int_Array.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T11:25:12.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sem.15_Ex5.4_High_Order_Functions_.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex5.4_High_Order_Functions_\\Sem.15_Ex5.4_High_Order_Functions_.cpp",
+              "RelativeDocumentMoniker": "Sem.15_Ex5.4_High_Order_Functions_\\Sem.15_Ex5.4_High_Order_Functions_.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex5.4_High_Order_Functions_\\Sem.15_Ex5.4_High_Order_Functions_.cpp",
+              "RelativeToolTip": "Sem.15_Ex5.4_High_Order_Functions_\\Sem.15_Ex5.4_High_Order_Functions_.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T14:35:43.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sem.15_Ex5.5_High_Order_Funcitons_strcmp.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex5.5_High_Order_Funcitons_strcmp\\Sem.15_Ex5.5_High_Order_Funcitons_strcmp.cpp",
+              "RelativeDocumentMoniker": "Sem.15_Ex5.5_High_Order_Funcitons_strcmp\\Sem.15_Ex5.5_High_Order_Funcitons_strcmp.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex5.5_High_Order_Funcitons_strcmp\\Sem.15_Ex5.5_High_Order_Funcitons_strcmp.cpp",
+              "RelativeToolTip": "Sem.15_Ex5.5_High_Order_Funcitons_strcmp\\Sem.15_Ex5.5_High_Order_Funcitons_strcmp.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T15:18:24.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sem.15_Ex5_High_Order_Functions.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex5_High_Order_Functions\\Sem.15_Ex5_High_Order_Functions.cpp",
+              "RelativeDocumentMoniker": "Sem.15_Ex5_High_Order_Functions\\Sem.15_Ex5_High_Order_Functions.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex5_High_Order_Functions\\Sem.15_Ex5_High_Order_Functions.cpp",
+              "RelativeToolTip": "Sem.15_Ex5_High_Order_Functions\\Sem.15_Ex5_High_Order_Functions.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-07T16:08:16.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sem.15_Ex6_High_Order_Functions_Get_Chars_Count_Cond.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex6_High_Order_Functions_Get_Chars_Count_Cond\\Sem.15_Ex6_High_Order_Functions_Get_Chars_Count_Cond.cpp",
+              "RelativeDocumentMoniker": "Sem.15_Ex6_High_Order_Functions_Get_Chars_Count_Cond\\Sem.15_Ex6_High_Order_Functions_Get_Chars_Count_Cond.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex6_High_Order_Functions_Get_Chars_Count_Cond\\Sem.15_Ex6_High_Order_Functions_Get_Chars_Count_Cond.cpp",
+              "RelativeToolTip": "Sem.15_Ex6_High_Order_Functions_Get_Chars_Count_Cond\\Sem.15_Ex6_High_Order_Functions_Get_Chars_Count_Cond.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T13:09:36.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sem.15_Ex7_GenBoolVectors.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex7_GenBoolVectors\\Sem.15_Ex7_GenBoolVectors.cpp",
+              "RelativeDocumentMoniker": "Sem.15_Ex7_GenBoolVectors\\Sem.15_Ex7_GenBoolVectors.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex7_GenBoolVectors\\Sem.15_Ex7_GenBoolVectors.cpp",
+              "RelativeToolTip": "Sem.15_Ex7_GenBoolVectors\\Sem.15_Ex7_GenBoolVectors.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-13T12:48:15.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sem.15_Ex4_MinOperationsMemoization.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex4_MinOperationsMemoization\\Sem.15_Ex4_MinOperationsMemoization.cpp",
+              "RelativeDocumentMoniker": "Sem.15_Ex4_MinOperationsMemoization\\Sem.15_Ex4_MinOperationsMemoization.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Sem.04-15\\Sem.15\\Sem.15_Ex4_MinOperationsMemoization\\Sem.15_Ex4_MinOperationsMemoization.cpp",
+              "RelativeToolTip": "Sem.15_Ex4_MinOperationsMemoization\\Sem.15_Ex4_MinOperationsMemoization.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-31T19:54:22.297Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

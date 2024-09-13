@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51B03215-216F-4833-AFC5-FAA8F36EF5AA}|Sem.11_Ex5\\Sem.11_Ex5.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.11\\Sem.11_Ex5\\Sem.11_Ex5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51B03215-216F-4833-AFC5-FAA8F36EF5AA}|Sem.11_Ex5\\Sem.11_Ex5.vcxproj|solutionrelative:Sem.11_Ex5\\Sem.11_Ex5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BB4961-89F3-4000-B973-DE831E3519CC}|Sem.11_Ex4\\Sem.11_Ex4.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.11\\Sem.11_Ex4\\Sem.11_Ex4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F9BB4961-89F3-4000-B973-DE831E3519CC}|Sem.11_Ex4\\Sem.11_Ex4.vcxproj|solutionrelative:Sem.11_Ex4\\Sem.11_Ex4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sem.11_Ex5.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.11\\Sem.11_Ex5\\Sem.11_Ex5.cpp",
+              "RelativeDocumentMoniker": "Sem.11_Ex5\\Sem.11_Ex5.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.11\\Sem.11_Ex5\\Sem.11_Ex5.cpp",
+              "RelativeToolTip": "Sem.11_Ex5\\Sem.11_Ex5.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-19T09:21:10.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sem.11_Ex4.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.11\\Sem.11_Ex4\\Sem.11_Ex4.cpp",
+              "RelativeDocumentMoniker": "Sem.11_Ex4\\Sem.11_Ex4.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.11\\Sem.11_Ex4\\Sem.11_Ex4.cpp",
+              "RelativeToolTip": "Sem.11_Ex4\\Sem.11_Ex4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-18T14:07:57.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

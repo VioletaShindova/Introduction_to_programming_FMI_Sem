@@ -1,0 +1,4 @@
+﻿  Sem.14_Ex6.cpp
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.14\Sem.14_Ex6\Sem.14_Ex6.cpp(55,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.14\Sem.14_Ex6\Sem.14_Ex6.cpp(104,1): warning C4715: 'isPalindromeRec': not all control paths return a value
+  Sem.14_Ex6.vcxproj -> C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.14\x64\Debug\Sem.14_Ex6.exe

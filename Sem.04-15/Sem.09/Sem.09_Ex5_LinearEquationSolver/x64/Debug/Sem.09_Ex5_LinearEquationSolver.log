@@ -1,0 +1,3 @@
+﻿  Sem.09_Ex5_LinearEquationSolver.cpp
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.09\Sem.09_Ex5_LinearEquationSolver\Sem.09_Ex5_LinearEquationSolver.cpp(63,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Sem.09_Ex5_LinearEquationSolver.vcxproj -> C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.09\x64\Debug\Sem.09_Ex5_LinearEquationSolver.exe

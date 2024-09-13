@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61869457-187F-41FB-89FB-EB5F7FEFD0B6}|Sem.10_Ex2_ReplacingWhereWithWhat\\Sem.10_Ex2_ReplacingWhereWithWhat.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.10\\Sem.10_Ex2_ReplacingWhereWithWhat\\Sem.10_Ex2_ReplacingWhereWithWhat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61869457-187F-41FB-89FB-EB5F7FEFD0B6}|Sem.10_Ex2_ReplacingWhereWithWhat\\Sem.10_Ex2_ReplacingWhereWithWhat.vcxproj|solutionrelative:Sem.10_Ex2_ReplacingWhereWithWhat\\Sem.10_Ex2_ReplacingWhereWithWhat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4824910B-81E5-44CE-A66F-6578FCE1C326}|Sem.10_Ex5_FindTheMostFamousWordInAText\\Sem.10_Ex5_FindTheMostFamousWordInAText.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.10\\Sem.10_Ex5_FindTheMostFamousWordInAText\\Sem.10_Ex6_FindTheMostFamousWordInAText.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4824910B-81E5-44CE-A66F-6578FCE1C326}|Sem.10_Ex5_FindTheMostFamousWordInAText\\Sem.10_Ex5_FindTheMostFamousWordInAText.vcxproj|solutionrelative:Sem.10_Ex5_FindTheMostFamousWordInAText\\Sem.10_Ex6_FindTheMostFamousWordInAText.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02229E66-7F89-433A-B2C4-77333F7952F0}|Sem.10_Ex7_Find_TheShortest_Word\\Sem.10_Ex7_Find_TheShortest_Word.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.10\\Sem.10_Ex7_Find_TheShortest_Word\\Sem.10_Ex7_Find_TheShortest_Word.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02229E66-7F89-433A-B2C4-77333F7952F0}|Sem.10_Ex7_Find_TheShortest_Word\\Sem.10_Ex7_Find_TheShortest_Word.vcxproj|solutionrelative:Sem.10_Ex7_Find_TheShortest_Word\\Sem.10_Ex7_Find_TheShortest_Word.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sem.10_Ex6_FindTheMostFamousWordInAText.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.10\\Sem.10_Ex5_FindTheMostFamousWordInAText\\Sem.10_Ex6_FindTheMostFamousWordInAText.cpp",
+              "RelativeDocumentMoniker": "Sem.10_Ex5_FindTheMostFamousWordInAText\\Sem.10_Ex6_FindTheMostFamousWordInAText.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.10\\Sem.10_Ex5_FindTheMostFamousWordInAText\\Sem.10_Ex6_FindTheMostFamousWordInAText.cpp",
+              "RelativeToolTip": "Sem.10_Ex5_FindTheMostFamousWordInAText\\Sem.10_Ex6_FindTheMostFamousWordInAText.cpp",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAI4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-10T21:44:43.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sem.10_Ex7_Find_TheShortest_Word.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.10\\Sem.10_Ex7_Find_TheShortest_Word\\Sem.10_Ex7_Find_TheShortest_Word.cpp",
+              "RelativeDocumentMoniker": "Sem.10_Ex7_Find_TheShortest_Word\\Sem.10_Ex7_Find_TheShortest_Word.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.10\\Sem.10_Ex7_Find_TheShortest_Word\\Sem.10_Ex7_Find_TheShortest_Word.cpp",
+              "RelativeToolTip": "Sem.10_Ex7_Find_TheShortest_Word\\Sem.10_Ex7_Find_TheShortest_Word.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-09T12:37:24.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sem.10_Ex2_ReplacingWhereWithWhat.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.10\\Sem.10_Ex2_ReplacingWhereWithWhat\\Sem.10_Ex2_ReplacingWhereWithWhat.cpp",
+              "RelativeDocumentMoniker": "Sem.10_Ex2_ReplacingWhereWithWhat\\Sem.10_Ex2_ReplacingWhereWithWhat.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.10\\Sem.10_Ex2_ReplacingWhereWithWhat\\Sem.10_Ex2_ReplacingWhereWithWhat.cpp",
+              "RelativeToolTip": "Sem.10_Ex2_ReplacingWhereWithWhat\\Sem.10_Ex2_ReplacingWhereWithWhat.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAkwDcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-04T15:06:15.218Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

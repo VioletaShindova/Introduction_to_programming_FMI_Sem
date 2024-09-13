@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{779BDB3A-6DC1-4422-B920-E90364E37235}|Sem.14_Ex12\\Sem.14_Ex12.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex12\\Sem.14_Ex12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{779BDB3A-6DC1-4422-B920-E90364E37235}|Sem.14_Ex12\\Sem.14_Ex12.vcxproj|solutionrelative:Sem.14_Ex12\\Sem.14_Ex12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDBE479-105F-40D7-BA0B-FCC936A549BD}|Sem.14_Ex11\\Sem.14_Ex11.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex11\\Sem.14_Ex11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DDBE479-105F-40D7-BA0B-FCC936A549BD}|Sem.14_Ex11\\Sem.14_Ex11.vcxproj|solutionrelative:Sem.14_Ex11\\Sem.14_Ex11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A485CD5-4295-4CA6-8978-050A0F7E2CA5}|Sem.14_Ex10\\Sem.14_Ex10.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex10\\Sem.14_Ex10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A485CD5-4295-4CA6-8978-050A0F7E2CA5}|Sem.14_Ex10\\Sem.14_Ex10.vcxproj|solutionrelative:Sem.14_Ex10\\Sem.14_Ex10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC4F0FF-DFA4-4DCA-8CF2-C1BD2C32BC4D}|Sem.14_Ex6\\Sem.14_Ex6.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex6\\Sem.14_Ex6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8EC4F0FF-DFA4-4DCA-8CF2-C1BD2C32BC4D}|Sem.14_Ex6\\Sem.14_Ex6.vcxproj|solutionrelative:Sem.14_Ex6\\Sem.14_Ex6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF843419-844F-46C7-AB3A-91F6344DCD5A}|Sem.14_Ex9\\Sem.14_Ex9.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex9\\Sem.14_Ex9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF843419-844F-46C7-AB3A-91F6344DCD5A}|Sem.14_Ex9\\Sem.14_Ex9.vcxproj|solutionrelative:Sem.14_Ex9\\Sem.14_Ex9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A663188-CD7D-4C49-9AFD-3B8F519E6A31}|Sem.14_Ex7_FastPower\\Sem.14_Ex7_FastPower.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex7_FastPower\\Sem.14_Ex7_FastPower.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A663188-CD7D-4C49-9AFD-3B8F519E6A31}|Sem.14_Ex7_FastPower\\Sem.14_Ex7_FastPower.vcxproj|solutionrelative:Sem.14_Ex7_FastPower\\Sem.14_Ex7_FastPower.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D235F24-0CD3-46A7-ADC7-643AECC902C8}|Sem.14_Ex8\\Sem.14_Ex8.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex8\\Sem.14_Ex8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D235F24-0CD3-46A7-ADC7-643AECC902C8}|Sem.14_Ex8\\Sem.14_Ex8.vcxproj|solutionrelative:Sem.14_Ex8\\Sem.14_Ex8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4ADA86-7CEC-47BB-881B-094E646E9B6B}|Sem.14_Ex5\\Sem.14_Ex5.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex5\\Sem.14_Ex5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C4ADA86-7CEC-47BB-881B-094E646E9B6B}|Sem.14_Ex5\\Sem.14_Ex5.vcxproj|solutionrelative:Sem.14_Ex5\\Sem.14_Ex5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E807FC-700D-4D97-ADBA-7F58469E3FB3}|Sem.14_Ex4\\Sem.14_Ex4.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex4\\Sem.14_Ex4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6E807FC-700D-4D97-ADBA-7F58469E3FB3}|Sem.14_Ex4\\Sem.14_Ex4.vcxproj|solutionrelative:Sem.14_Ex4\\Sem.14_Ex4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25595BE2-B5BC-40F8-A47D-B11B392811CD}|Sem.14_Ex3\\Sem.14_Ex3.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex3\\Sem.14_Ex3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25595BE2-B5BC-40F8-A47D-B11B392811CD}|Sem.14_Ex3\\Sem.14_Ex3.vcxproj|solutionrelative:Sem.14_Ex3\\Sem.14_Ex3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320ED4E9-73A6-42F7-BC0B-BBC94AFCC028}|Sem.14_Ex2\\Sem.14_Ex2.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex2\\Sem.14_Ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{320ED4E9-73A6-42F7-BC0B-BBC94AFCC028}|Sem.14_Ex2\\Sem.14_Ex2.vcxproj|solutionrelative:Sem.14_Ex2\\Sem.14_Ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31173FCE-FA57-4A11-BEFC-0CCB191938DE}|Sem.14_Ex1\\Sem.14_Ex1.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex1\\Sem.14_Ex1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{31173FCE-FA57-4A11-BEFC-0CCB191938DE}|Sem.14_Ex1\\Sem.14_Ex1.vcxproj|solutionrelative:Sem.14_Ex1\\Sem.14_Ex1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sem.14_Ex12.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex12\\Sem.14_Ex12.cpp",
+              "RelativeDocumentMoniker": "Sem.14_Ex12\\Sem.14_Ex12.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex12\\Sem.14_Ex12.cpp",
+              "RelativeToolTip": "Sem.14_Ex12\\Sem.14_Ex12.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-25T16:11:45.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sem.14_Ex11.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex11\\Sem.14_Ex11.cpp",
+              "RelativeDocumentMoniker": "Sem.14_Ex11\\Sem.14_Ex11.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex11\\Sem.14_Ex11.cpp",
+              "RelativeToolTip": "Sem.14_Ex11\\Sem.14_Ex11.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-25T15:50:43.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sem.14_Ex10.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex10\\Sem.14_Ex10.cpp",
+              "RelativeDocumentMoniker": "Sem.14_Ex10\\Sem.14_Ex10.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex10\\Sem.14_Ex10.cpp",
+              "RelativeToolTip": "Sem.14_Ex10\\Sem.14_Ex10.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-16T14:42:07.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sem.14_Ex9.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex9\\Sem.14_Ex9.cpp",
+              "RelativeDocumentMoniker": "Sem.14_Ex9\\Sem.14_Ex9.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex9\\Sem.14_Ex9.cpp",
+              "RelativeToolTip": "Sem.14_Ex9\\Sem.14_Ex9.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-15T15:28:17.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sem.14_Ex8.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex8\\Sem.14_Ex8.cpp",
+              "RelativeDocumentMoniker": "Sem.14_Ex8\\Sem.14_Ex8.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex8\\Sem.14_Ex8.cpp",
+              "RelativeToolTip": "Sem.14_Ex8\\Sem.14_Ex8.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-15T15:20:56.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sem.14_Ex7_FastPower.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex7_FastPower\\Sem.14_Ex7_FastPower.cpp",
+              "RelativeDocumentMoniker": "Sem.14_Ex7_FastPower\\Sem.14_Ex7_FastPower.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex7_FastPower\\Sem.14_Ex7_FastPower.cpp",
+              "RelativeToolTip": "Sem.14_Ex7_FastPower\\Sem.14_Ex7_FastPower.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-15T15:11:55.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sem.14_Ex6.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex6\\Sem.14_Ex6.cpp",
+              "RelativeDocumentMoniker": "Sem.14_Ex6\\Sem.14_Ex6.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex6\\Sem.14_Ex6.cpp",
+              "RelativeToolTip": "Sem.14_Ex6\\Sem.14_Ex6.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-10T16:14:58.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sem.14_Ex5.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex5\\Sem.14_Ex5.cpp",
+              "RelativeDocumentMoniker": "Sem.14_Ex5\\Sem.14_Ex5.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex5\\Sem.14_Ex5.cpp",
+              "RelativeToolTip": "Sem.14_Ex5\\Sem.14_Ex5.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-10T16:01:17.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sem.14_Ex4.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex4\\Sem.14_Ex4.cpp",
+              "RelativeDocumentMoniker": "Sem.14_Ex4\\Sem.14_Ex4.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex4\\Sem.14_Ex4.cpp",
+              "RelativeToolTip": "Sem.14_Ex4\\Sem.14_Ex4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-10T15:37:05.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sem.14_Ex3.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex3\\Sem.14_Ex3.cpp",
+              "RelativeDocumentMoniker": "Sem.14_Ex3\\Sem.14_Ex3.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex3\\Sem.14_Ex3.cpp",
+              "RelativeToolTip": "Sem.14_Ex3\\Sem.14_Ex3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-10T15:34:03.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sem.14_Ex2.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex2\\Sem.14_Ex2.cpp",
+              "RelativeDocumentMoniker": "Sem.14_Ex2\\Sem.14_Ex2.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex2\\Sem.14_Ex2.cpp",
+              "RelativeToolTip": "Sem.14_Ex2\\Sem.14_Ex2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-10T15:04:45.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sem.14_Ex1.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex1\\Sem.14_Ex1.cpp",
+              "RelativeDocumentMoniker": "Sem.14_Ex1\\Sem.14_Ex1.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.14\\Sem.14_Ex1\\Sem.14_Ex1.cpp",
+              "RelativeToolTip": "Sem.14_Ex1\\Sem.14_Ex1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-10T15:00:37.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

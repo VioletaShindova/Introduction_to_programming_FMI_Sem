@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E8E6E5-6626-44E2-8E9A-21993970A1E6}|Sem.09_Ex2_CheckIfMatrixForEquivalenceRelation\\Sem.09_Ex2_CheckIfMatrixForEquivalenceRelation.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.09\\Sem.09_Ex2_CheckIfMatrixForEquivalenceRelation\\Sem.09_Ex2_CheckIfMatrixForEquivalenceRelation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2E8E6E5-6626-44E2-8E9A-21993970A1E6}|Sem.09_Ex2_CheckIfMatrixForEquivalenceRelation\\Sem.09_Ex2_CheckIfMatrixForEquivalenceRelation.vcxproj|solutionrelative:Sem.09_Ex2_CheckIfMatrixForEquivalenceRelation\\Sem.09_Ex2_CheckIfMatrixForEquivalenceRelation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEFBAD6-8CAE-41D8-909F-29848526B3A0}|Sem.09_Ex3_MultiplyMatrixes\\Sem.09_Ex3_MultiplyMatrixes.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.09\\Sem.09_Ex3_MultiplyMatrixes\\Sem.09_Ex3_MultiplyMatrixes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DEFBAD6-8CAE-41D8-909F-29848526B3A0}|Sem.09_Ex3_MultiplyMatrixes\\Sem.09_Ex3_MultiplyMatrixes.vcxproj|solutionrelative:Sem.09_Ex3_MultiplyMatrixes\\Sem.09_Ex3_MultiplyMatrixes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDDF12E4-1F38-40E1-839D-3AEBA0B962BF}|Sem.09_Ex4\\Sem.09_Ex4.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.09\\Sem.09_Ex4\\Sem.09_Ex4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DDDF12E4-1F38-40E1-839D-3AEBA0B962BF}|Sem.09_Ex4\\Sem.09_Ex4.vcxproj|solutionrelative:Sem.09_Ex4\\Sem.09_Ex4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2244A63-7D23-478B-968C-0485A63C04E2}|Sem.09_Ex5_LinearEquationSolver\\Sem.09_Ex5_LinearEquationSolver.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.09\\Sem.09_Ex5_LinearEquationSolver\\Sem.09_Ex5_LinearEquationSolver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2244A63-7D23-478B-968C-0485A63C04E2}|Sem.09_Ex5_LinearEquationSolver\\Sem.09_Ex5_LinearEquationSolver.vcxproj|solutionrelative:Sem.09_Ex5_LinearEquationSolver\\Sem.09_Ex5_LinearEquationSolver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44910957-20A3-4CE1-85A7-48B8E000FD18}|Sem.09_Ex1\\Sem.09_Ex1.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.09\\Sem.09_Ex1\\Sem.09_Ex1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44910957-20A3-4CE1-85A7-48B8E000FD18}|Sem.09_Ex1\\Sem.09_Ex1.vcxproj|solutionrelative:Sem.09_Ex1\\Sem.09_Ex1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sem.09_Ex5_LinearEquationSolver.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.09\\Sem.09_Ex5_LinearEquationSolver\\Sem.09_Ex5_LinearEquationSolver.cpp",
+              "RelativeDocumentMoniker": "Sem.09_Ex5_LinearEquationSolver\\Sem.09_Ex5_LinearEquationSolver.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.09\\Sem.09_Ex5_LinearEquationSolver\\Sem.09_Ex5_LinearEquationSolver.cpp",
+              "RelativeToolTip": "Sem.09_Ex5_LinearEquationSolver\\Sem.09_Ex5_LinearEquationSolver.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-04T09:15:58.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sem.09_Ex4.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.09\\Sem.09_Ex4\\Sem.09_Ex4.cpp",
+              "RelativeDocumentMoniker": "Sem.09_Ex4\\Sem.09_Ex4.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.09\\Sem.09_Ex4\\Sem.09_Ex4.cpp",
+              "RelativeToolTip": "Sem.09_Ex4\\Sem.09_Ex4.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-04T07:35:52.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sem.09_Ex3_MultiplyMatrixes.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.09\\Sem.09_Ex3_MultiplyMatrixes\\Sem.09_Ex3_MultiplyMatrixes.cpp",
+              "RelativeDocumentMoniker": "Sem.09_Ex3_MultiplyMatrixes\\Sem.09_Ex3_MultiplyMatrixes.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.09\\Sem.09_Ex3_MultiplyMatrixes\\Sem.09_Ex3_MultiplyMatrixes.cpp",
+              "RelativeToolTip": "Sem.09_Ex3_MultiplyMatrixes\\Sem.09_Ex3_MultiplyMatrixes.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-03T17:33:23.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sem.09_Ex2_CheckIfMatrixForEquivalenceRelation.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.09\\Sem.09_Ex2_CheckIfMatrixForEquivalenceRelation\\Sem.09_Ex2_CheckIfMatrixForEquivalenceRelation.cpp",
+              "RelativeDocumentMoniker": "Sem.09_Ex2_CheckIfMatrixForEquivalenceRelation\\Sem.09_Ex2_CheckIfMatrixForEquivalenceRelation.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.09\\Sem.09_Ex2_CheckIfMatrixForEquivalenceRelation\\Sem.09_Ex2_CheckIfMatrixForEquivalenceRelation.cpp",
+              "RelativeToolTip": "Sem.09_Ex2_CheckIfMatrixForEquivalenceRelation\\Sem.09_Ex2_CheckIfMatrixForEquivalenceRelation.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-02T19:57:06.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sem.09_Ex1.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.09\\Sem.09_Ex1\\Sem.09_Ex1.cpp",
+              "RelativeDocumentMoniker": "Sem.09_Ex1\\Sem.09_Ex1.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.09\\Sem.09_Ex1\\Sem.09_Ex1.cpp",
+              "RelativeToolTip": "Sem.09_Ex1\\Sem.09_Ex1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-02T11:21:53.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

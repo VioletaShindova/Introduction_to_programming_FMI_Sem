@@ -1,0 +1,13 @@
+﻿  FindNumberOnce_Ex1.cpp
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Session_Preparation\Bitwise_Operations\FindNumberOnce_Ex1\FindNumberOnce_Ex1.cpp(40,23): error C2062: type 'unsigned int' unexpected
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Session_Preparation\Bitwise_Operations\FindNumberOnce_Ex1\FindNumberOnce_Ex1.cpp(40,41): warning C4552: '<': result of expression not used
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Session_Preparation\Bitwise_Operations\FindNumberOnce_Ex1\FindNumberOnce_Ex1.cpp(40,54): error C2059: syntax error: ')'
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Session_Preparation\Bitwise_Operations\FindNumberOnce_Ex1\FindNumberOnce_Ex1.cpp(42,3): error C2059: syntax error: 'if'
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Session_Preparation\Bitwise_Operations\FindNumberOnce_Ex1\FindNumberOnce_Ex1.cpp(43,3): error C2143: syntax error: missing ';' before '{'
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Session_Preparation\Bitwise_Operations\FindNumberOnce_Ex1\FindNumberOnce_Ex1.cpp(48,30): error C2065: 'j': undeclared identifier
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Session_Preparation\Bitwise_Operations\FindNumberOnce_Ex1\FindNumberOnce_Ex1.cpp(51,4): error C2065: 'j': undeclared identifier
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Session_Preparation\Bitwise_Operations\FindNumberOnce_Ex1\FindNumberOnce_Ex1.cpp(54,2): error C2059: syntax error: 'return'
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Session_Preparation\Bitwise_Operations\FindNumberOnce_Ex1\FindNumberOnce_Ex1.cpp(55,1): error C2059: syntax error: '}'
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Session_Preparation\Bitwise_Operations\FindNumberOnce_Ex1\FindNumberOnce_Ex1.cpp(55,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Session_Preparation\Bitwise_Operations\FindNumberOnce_Ex1\FindNumberOnce_Ex1.cpp(58,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Practice\Session_Preparation\Bitwise_Operations\FindNumberOnce_Ex1\FindNumberOnce_Ex1.cpp(58,1): error C2447: '{': missing function header (old-style formal list?)

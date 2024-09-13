@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Sem.11_Ex2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Sem.11_Ex1.1_CensorNumber_Dimitriev.cpp
+  Sem.11_Ex2.vcxproj -> C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.11\x64\Debug\Sem.11_Ex1.1_CensorNumber_Dimitriev.exe

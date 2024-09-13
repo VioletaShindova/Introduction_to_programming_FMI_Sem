@@ -1,0 +1,4 @@
+﻿  Sem.06_Ex10_PrintArray.cpp
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.06\Sem.06_Ex10_PrintArray\Sem.06_Ex10_PrintArray.cpp(9,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.06\Sem.06_Ex10_PrintArray\Sem.06_Ex10_PrintArray.cpp(30,20): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Sem.06_Ex10_PrintArray.vcxproj -> C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.06\x64\Debug\Sem.06_Ex10_PrintArray.exe

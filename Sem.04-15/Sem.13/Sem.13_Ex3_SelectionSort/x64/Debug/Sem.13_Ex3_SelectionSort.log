@@ -1,0 +1,6 @@
+﻿  Sem.13_Ex3_SelectionSort.cpp
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.13\Sem.13_Ex3_SelectionSort\Sem.13_Ex3_SelectionSort.cpp(48,46): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.13\Sem.13_Ex3_SelectionSort\Sem.13_Ex3_SelectionSort.cpp(53,47): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.13\Sem.13_Ex3_SelectionSort\Sem.13_Ex3_SelectionSort.cpp(68,46): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.13\Sem.13_Ex3_SelectionSort\Sem.13_Ex3_SelectionSort.cpp(73,47): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Sem.13_Ex3_SelectionSort.vcxproj -> C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.13\x64\Debug\Sem.13_Ex3_SelectionSort.exe

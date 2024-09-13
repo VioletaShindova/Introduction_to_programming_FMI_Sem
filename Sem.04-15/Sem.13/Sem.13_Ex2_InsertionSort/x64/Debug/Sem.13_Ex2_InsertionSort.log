@@ -1,0 +1,3 @@
+﻿  Sem.13_Ex2_InsertionSort.cpp
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.13\Sem.13_Ex2_InsertionSort\Sem.13_Ex2_InsertionSort.cpp(22,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Sem.13_Ex2_InsertionSort.vcxproj -> C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.13\x64\Debug\Sem.13_Ex2_InsertionSort.exe

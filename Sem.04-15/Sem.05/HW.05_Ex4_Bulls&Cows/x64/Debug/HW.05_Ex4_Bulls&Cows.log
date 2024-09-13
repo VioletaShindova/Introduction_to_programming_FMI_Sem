@@ -1,0 +1,3 @@
+﻿  HW.05_Ex4_Bulls&Cows.cpp
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.05\HW.05_Ex4_Bulls&Cows\HW.05_Ex4_Bulls&Cows.cpp(92,36): warning C4267: 'argument': conversion from 'size_t' to 'const unsigned int', possible loss of data
+  HW.05_Ex4_Bulls&Cows.vcxproj -> C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.05\x64\Debug\HW.05_Ex4_Bulls&Cows.exe

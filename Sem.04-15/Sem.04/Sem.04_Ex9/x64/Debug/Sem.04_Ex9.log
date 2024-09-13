@@ -1,0 +1,3 @@
+﻿  Sem.04_Ex9.cpp
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.04_Ex9\Sem.04_Ex9.cpp(18,16): warning C4244: 'return': conversion from 'double' to 'unsigned int', possible loss of data
+  Sem.04_Ex9.vcxproj -> C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\x64\Debug\Sem.04_Ex9.exe

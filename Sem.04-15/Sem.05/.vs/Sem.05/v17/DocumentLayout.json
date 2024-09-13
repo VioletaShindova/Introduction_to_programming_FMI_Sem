@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD308708-4540-4190-8D30-37B3D486439C}|HW.05_Ex5_GCD\\HW.05_Ex5_GCD.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.05\\HW.05_Ex5_GCD\\HW.05_Ex5_GCD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD308708-4540-4190-8D30-37B3D486439C}|HW.05_Ex5_GCD\\HW.05_Ex5_GCD.vcxproj|solutionrelative:HW.05_Ex5_GCD\\HW.05_Ex5_GCD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C0C0D0-9413-4AF2-A94E-ED7AD5A6A4A3}|HW.05_Ex4_Bulls\u0026Cows\\HW.05_Ex4_Bulls\u0026Cows.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.05\\HW.05_Ex4_Bulls\u0026Cows\\HW.05_Ex4_Bulls\u0026Cows.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78C0C0D0-9413-4AF2-A94E-ED7AD5A6A4A3}|HW.05_Ex4_Bulls\u0026Cows\\HW.05_Ex4_Bulls\u0026Cows.vcxproj|solutionrelative:HW.05_Ex4_Bulls\u0026Cows\\HW.05_Ex4_Bulls\u0026Cows.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{219A3EFC-0FDE-4391-AB03-835FC8E23395}|HW.05_Ex3_Max\u0026MinDigit\\HW.05_Ex3_Max\u0026MinDigit.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.05\\HW.05_Ex3_Max\u0026MinDigit\\HW.05_Ex3_Max\u0026MinDigit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{219A3EFC-0FDE-4391-AB03-835FC8E23395}|HW.05_Ex3_Max\u0026MinDigit\\HW.05_Ex3_Max\u0026MinDigit.vcxproj|solutionrelative:HW.05_Ex3_Max\u0026MinDigit\\HW.05_Ex3_Max\u0026MinDigit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A2CF50-BA6C-4518-B571-5A85C967BA3D}|HW.05_Ex2_ConcatNumbers\\HW.05_Ex2_ConcatNumbers.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.05\\HW.05_Ex2_ConcatNumbers\\HW.05_Ex2_ConcatNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79A2CF50-BA6C-4518-B571-5A85C967BA3D}|HW.05_Ex2_ConcatNumbers\\HW.05_Ex2_ConcatNumbers.vcxproj|solutionrelative:HW.05_Ex2_ConcatNumbers\\HW.05_Ex2_ConcatNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2162FA80-83DE-4A14-B0DA-F3D9A71E8684}|HW.05_Ex1_SortNumber\\HW.05_Ex1_SortNumber.vcxproj|C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.05\\HW.05_Ex1_SortNumber\\HW.05_Ex1_SortNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2162FA80-83DE-4A14-B0DA-F3D9A71E8684}|HW.05_Ex1_SortNumber\\HW.05_Ex1_SortNumber.vcxproj|solutionrelative:HW.05_Ex1_SortNumber\\HW.05_Ex1_SortNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HW.05_Ex5_GCD.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.05\\HW.05_Ex5_GCD\\HW.05_Ex5_GCD.cpp",
+              "RelativeDocumentMoniker": "HW.05_Ex5_GCD\\HW.05_Ex5_GCD.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.05\\HW.05_Ex5_GCD\\HW.05_Ex5_GCD.cpp",
+              "RelativeToolTip": "HW.05_Ex5_GCD\\HW.05_Ex5_GCD.cpp",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwEkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T07:28:30.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HW.05_Ex4_Bulls\u0026Cows.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.05\\HW.05_Ex4_Bulls\u0026Cows\\HW.05_Ex4_Bulls\u0026Cows.cpp",
+              "RelativeDocumentMoniker": "HW.05_Ex4_Bulls\u0026Cows\\HW.05_Ex4_Bulls\u0026Cows.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.05\\HW.05_Ex4_Bulls\u0026Cows\\HW.05_Ex4_Bulls\u0026Cows.cpp",
+              "RelativeToolTip": "HW.05_Ex4_Bulls\u0026Cows\\HW.05_Ex4_Bulls\u0026Cows.cpp",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAcwHEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-25T10:02:26.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HW.05_Ex3_Max\u0026MinDigit.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.05\\HW.05_Ex3_Max\u0026MinDigit\\HW.05_Ex3_Max\u0026MinDigit.cpp",
+              "RelativeDocumentMoniker": "HW.05_Ex3_Max\u0026MinDigit\\HW.05_Ex3_Max\u0026MinDigit.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.05\\HW.05_Ex3_Max\u0026MinDigit\\HW.05_Ex3_Max\u0026MinDigit.cpp",
+              "RelativeToolTip": "HW.05_Ex3_Max\u0026MinDigit\\HW.05_Ex3_Max\u0026MinDigit.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-25T09:07:33.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HW.05_Ex2_ConcatNumbers.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.05\\HW.05_Ex2_ConcatNumbers\\HW.05_Ex2_ConcatNumbers.cpp",
+              "RelativeDocumentMoniker": "HW.05_Ex2_ConcatNumbers\\HW.05_Ex2_ConcatNumbers.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.05\\HW.05_Ex2_ConcatNumbers\\HW.05_Ex2_ConcatNumbers.cpp",
+              "RelativeToolTip": "HW.05_Ex2_ConcatNumbers\\HW.05_Ex2_ConcatNumbers.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-25T08:58:20.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HW.05_Ex1_SortNumber.cpp",
+              "DocumentMoniker": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.05\\HW.05_Ex1_SortNumber\\HW.05_Ex1_SortNumber.cpp",
+              "RelativeDocumentMoniker": "HW.05_Ex1_SortNumber\\HW.05_Ex1_SortNumber.cpp",
+              "ToolTip": "C:\\Users\\viole\\Documents\\University Work Files\\Introduction_to_programming_FMI\\Summer_Session_ITP\\Sem.05\\HW.05_Ex1_SortNumber\\HW.05_Ex1_SortNumber.cpp",
+              "RelativeToolTip": "HW.05_Ex1_SortNumber\\HW.05_Ex1_SortNumber.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-24T20:46:53.158Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

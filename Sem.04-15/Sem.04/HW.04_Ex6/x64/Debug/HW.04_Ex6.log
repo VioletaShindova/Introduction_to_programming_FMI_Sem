@@ -1,0 +1,3 @@
+﻿  HW.04_Ex6.cpp
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\HW.04_Ex6\HW.04_Ex6.cpp(38,24): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  HW.04_Ex6.vcxproj -> C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\x64\Debug\HW.04_Ex6.exe

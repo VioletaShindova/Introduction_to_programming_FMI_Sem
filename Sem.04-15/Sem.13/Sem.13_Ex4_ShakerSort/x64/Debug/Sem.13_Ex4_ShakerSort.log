@@ -1,0 +1,5 @@
+﻿  Sem.13_Ex4_ShakerSort.cpp
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.13\Sem.13_Ex4_ShakerSort\Sem.13_Ex4_ShakerSort.cpp(16,31): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.13\Sem.13_Ex4_ShakerSort\Sem.13_Ex4_ShakerSort.cpp(25,40): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.13\Sem.13_Ex4_ShakerSort\Sem.13_Ex4_ShakerSort.cpp(48,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Sem.13_Ex4_ShakerSort.vcxproj -> C:\Users\viole\Documents\University Work Files\Introduction_to_programming_FMI\Summer_Session_ITP\Sem.13\x64\Debug\Sem.13_Ex4_ShakerSort.exe
